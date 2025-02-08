@@ -3,7 +3,7 @@ import SectionTitle from "../Common/SectionTitle";
 
 const HowWork = () => {
     return (
-        <section className="work-process-section section-padding fix">
+        <section id="howitwork" className="work-process-section section-padding fix">
             <div className="work-process-container-wrapper style1">
                 <div className="container">
                     <div className="section-title text-center mxw-565 mx-auto">

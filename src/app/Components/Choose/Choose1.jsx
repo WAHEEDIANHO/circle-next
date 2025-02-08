@@ -52,11 +52,11 @@ const Choose1 = ({subtitle,title,content,FeatureList,FeatureList2,btnname,btnurl
                                     <div className="advantage-thumb">
                                         <div className="thumb1 img-custom-anim-top wow fadeInDown" data-wow-delay=".8s"
                                             data-tilt data-tilt-max="10">
-                                                <Image src="/assets/images/advantage/advantageThumb1_1.png" alt="img" width={366} height={591}   />
+                                                <Image src="/assets/images/advantage/1.png" alt="img" width={576} height={591}   />
                                                </div>
                                         <div className="thumb2 img-custom-anim-right wow fadeInRight" data-wow-delay=".4s"
                                             data-tilt data-tilt-max="15">
-                                                <Image src="/assets/images/advantage/advantageThumb1_2.png" alt="img" width={369} height={589}   />
+                                                {/*<Image src="/assets/images/advantage/1.png" alt="img" width={369} height={589}   />*/}
                                                 </div>
                                         <div className="shape1"><Image src="/assets/images/shape/advanceThumbShape1_1.png" alt="img" width={546} height={546}   /></div>
                                     </div>
